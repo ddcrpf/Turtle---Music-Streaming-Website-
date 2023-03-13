@@ -1,6 +1,6 @@
 Turtle - music streaming website
 
-This is a simple music streming webiste made using HTML and CSS and vanilla Javascript. 
+This is a simple music streming website made using HTML and CSS and vanilla Javascript. 
 
 [Visit the website here](https://directorofunskillful.github.io/Turtle---Music-Streaming-Website-/)
 
